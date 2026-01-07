@@ -1,6 +1,0 @@
-customerID,tenure,MonthlyCharges,TotalCharges,Contract,Churn
-0001,5,70,350,Month-to-month,Yes
-0002,24,20,480,One year,No
-0003,3,90,270,Month-to-month,Yes
-0004,10,55,550,Month-to-month,No
-0005,48,30,1440,Two year,No
